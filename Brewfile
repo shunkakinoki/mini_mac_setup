@@ -19,7 +19,6 @@ brew "ios-deploy"
 brew "joplin"
 brew "mas"
 brew "neofetch"
-brew "r"
 brew "tmux"
 brew "tree"
 brew "watch"
@@ -29,23 +28,8 @@ brew "zsh"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 brew "cjbassi/gotop/gotop"
-brew "dart-lang/dart/dart"
-cask "evernote"
-cask "fastlane"
 cask "font-fira-code"
-cask "google-backup-and-sync"
 cask "google-chrome"
 cask "hyper"
 cask "miniconda"
-cask "slack"
-cask "spotify"
-cask "ticktick"
 cask "visual-studio-code"
-mas "Compressor", id: 424390742
-mas "Final Cut Pro", id: 424389933
-mas "Keynote", id: 409183694
-mas "LINE", id: 539883307
-mas "Magnet", id: 441258766
-mas "Motion", id: 434290957
-mas "Pixelmator Pro", id: 1289583905
-mas "Xcode", id: 497799835
