@@ -1,4 +1,4 @@
-# mac_setup
+# mini_mac_setup
 
 My implementation of Macintosh Setup.  
 Original code [https://github.com/caseyWebb/laptop](https://github.com/caseyWebb/laptop)
